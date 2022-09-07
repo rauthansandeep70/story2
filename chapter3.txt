@@ -1,0 +1,1 @@
+NOTE: It is possible to meet more than one weather condition for a requested location. The first weather condition in API respond is primary
